@@ -1,2 +1,3 @@
-este é um exemplo de ficheiro de texto file 1
+eliminei a primeira linha e fiz esta alteração
 
+fiz uma alteração dentro do ficheiro
